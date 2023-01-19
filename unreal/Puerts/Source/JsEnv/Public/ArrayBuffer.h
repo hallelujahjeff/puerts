@@ -11,7 +11,7 @@
 #include "CoreMinimal.h"
 #include "ArrayBuffer.generated.h"
 
-USTRUCT(BlueprintType)
+USTRUCT(BlueprintType) 
 struct FArrayBuffer
 {
 public:
